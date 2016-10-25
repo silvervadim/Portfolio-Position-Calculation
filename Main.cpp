@@ -81,7 +81,7 @@ int main() {
 	*/
 
 	//In class 3. In main
-	//a.Use the 3 Position data from last week’s homework to construct a Portfolio object
+	//a.Use the 3 Position data from last weekâ€™s homework to construct a Portfolio object
 	string portfolioName = "vadim's portfolio";
 	Portfolio myPort(portfolioName);
 
